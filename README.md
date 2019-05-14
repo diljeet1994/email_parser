@@ -111,3 +111,5 @@ We expect you will write code to deploy it to Heroku for us (we will provide det
     "from_EmailAddressDomain": "string",
     "from_EmailAddressDomainWithoutTLD": "string"
   }
+
+Dataset - https://www.cs.cmu.edu/~enron/
