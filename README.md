@@ -18,7 +18,7 @@ Provide a cleaned email body without signatures or reply chains (cleanedemailbod
 
 We will require all source code for both training and the API. We expect you will use your own and other email inboxes as training data via GMAIL/Office 365 API
 We expect you will write code to deploy it to Heroku for us (we will provide details)
-
+<br>
 **Sample Request**
 {
   "subject": "string",
@@ -31,6 +31,7 @@ We expect you will write code to deploy it to Heroku for us (we will provide det
     "outputCleanedEmailHtmlDepth": 1
   }
 }
+<br>
 **Sample response**
 {
     "error": "string",
