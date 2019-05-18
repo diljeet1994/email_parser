@@ -114,4 +114,5 @@ We expect you will write code to deploy it to Heroku for us (we will provide det
 
 Dataset - <br>
 https://www.cs.cmu.edu/~enron/   <br>
-https://archive.ics.uci.edu/ml/datasets/spambase
+https://archive.ics.uci.edu/ml/datasets/spambase <br>
+http://www.cs.bgu.ac.il/~elhadad/nlp16/spam.zip <br>
