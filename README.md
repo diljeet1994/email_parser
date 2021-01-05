@@ -1,5 +1,5 @@
 # email_parser
-Email Parser and spam classification
+Email Parser and spam classification 
 
 I require an machine learning/regex expert to build and train a model and expose it through an API for us.
 The API needs to extract email signatures from emails, including email replies. It should function in EXACTLY the same way as this API here:
